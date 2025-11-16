@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 IT Student, i'm currently learning :<br>- Python<br>- Cybersecurity<br>- Networks<br><br>
 
 # 📊 GitHub Stats:
