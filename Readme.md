@@ -1,5 +1,5 @@
 # About Me:
-IT Student, i'm currently learning:<br>- Python<br>- Cybersecurity<br>- Networks<br><br>
+French IT Student, i'm currently learning:<br>- Python<br>- Cybersecurity<br>- Networks<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=axel-g-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
